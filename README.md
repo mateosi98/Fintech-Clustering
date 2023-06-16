@@ -1,6 +1,6 @@
-# wealth_management
+# Fintech Clustering
 
-Wealth management insight analysis.
+Wealth management dataset clustering with K-MEANS
 
 The dataset was given to me for a Fintech interview
 
